@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica_01_Base</string>
+
+    <string name="txtTitle">Practica 01 Menú</string>
+    <string name="btnGreetTitle">Dame click!</string>
+    <string name="btnListViewTitle">Mostrar datos</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_greet">Saludar</string>
+    <string name="action_listView">ListView</string>
+</resources>

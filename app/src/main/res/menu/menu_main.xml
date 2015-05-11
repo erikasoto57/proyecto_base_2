@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_greet"
+        android:orderInCategory="1"
+        android:title="@string/action_greet"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/action_listView"
+        android:orderInCategory="2"
+        android:title="@string/action_listView"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/action_testing"
+        android:orderInCategory="3"
+        android:title="soy un hardcoded string"
+        app:showAsAction="withText" />
+</menu>
